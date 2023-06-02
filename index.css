@@ -7,4 +7,17 @@ h1{
 }
 .coco{
       color: orange;
+      
+}
+p{
+      text-align: justify;
+}
+section{
+      display: flex;
+}
+.width{
+      width: 50%;
+}
+.width img{
+      width: 95%;
 }
