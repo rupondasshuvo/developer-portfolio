@@ -15,6 +15,7 @@ p{
 }
 section{
       display: flex;
+      margin-bottom: 300px;
 }
 .width{
       width: 50%;
@@ -37,6 +38,30 @@ section{
       .top-banner{
             background-image: url(images/top-banner.png);
             background-repeat: no-repeat;
-            
+ }
+      
+ 
+ 
+ h1{
+      font-size: 50px;
+      color: orange;
+ }
 
-      }
+.banner{
+      background-image: url(images/top-banner.png);
+      display: flex;
+      background-repeat: no-repeat;
+}
+.joy-tech{
+      color: orangered;
+}
+.pp{
+      color: navy;
+}
+.bg-of-jtg{
+      color: aliceblue;
+      background-image: linear-gradient(orange, tomato);
+      text-decoration: none;
+      font-size: 30px;
+      border-radius: 5PX;
+}  
